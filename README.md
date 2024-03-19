@@ -42,7 +42,7 @@ N/A
 
 ## Requerimientos de red
 
-La aplicación debe tener conectividad a internet para comunicarse con la red y al componente api-zkSyn.
+La aplicación debe tener conectividad a internet para comunicarse con la red y al componente api-zkSync.
 
 ## Ruta de acceso
 La aplicación debe tener conectividad a internet.
