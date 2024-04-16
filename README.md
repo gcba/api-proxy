@@ -25,12 +25,15 @@ Clonar el repositorio
 - Abrir una terminal y ejecutar:
 
 ```bash
+- cd source
 - yarn
 - yarn build
 - yarn start
 ```
 
 ## Variables de Entorno
+
+Se tienen que configurar las mismas en el archivo /api-proxy/source/src/.env
 
 ### Generales
 
