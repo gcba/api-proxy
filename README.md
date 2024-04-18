@@ -1,3 +1,17 @@
+## [Descripción](https://github.com/gcba/api-proxy/tree/master#descripci%C3%B3n)
+## [Tecnología](https://github.com/gcba/api-proxy/tree/master#tecnolog%C3%ADas)
+## [Arquitectura](https://docs.quarkid.org/Arquitectura/) y [Documentación](https://docs.quarkid.org/Arquitectura/componentes/)
+## Configuración
+### 1. [Entorno local](https://github.com/gcba/api-proxy/tree/master#configuraci%C3%B3n-de-entorno-local)
+### 2. [Variables de Entorno](https://github.com/gcba/api-proxy/tree/master#variables-de-entorno)
+### 3. [Pasos para instalar el componente en un servidor](https://github.com/gcba/api-proxy/tree/master#pasos-para-instalar-el-componente-en-un-servidor)
+## [Licencia](https://github.com/gcba/api-proxy/tree/master?tab=readme-ov-file#licencia)
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Descripción
 
 El componente API Proxy, también conocido como reverse proxy, esta diseñado para
